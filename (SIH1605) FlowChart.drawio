@@ -466,10 +466,67 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dmrSA0OePU3Xj5UzGgVG" name="Software">
-    <mxGraphModel dx="1466" dy="845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1518" dy="701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dF7pddtRagRNDY8ZvFb1-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ssZ2fBv3xPgEKSfBmLmR-1" target="mOh32z28dZqgnN2yflym-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ssZ2fBv3xPgEKSfBmLmR-1" value="PreBuilt Model" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RbEAQzqLfhVfLh5WSuT_-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mOh32z28dZqgnN2yflym-2" target="5gETfFsgKsis_BSkWI75-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RbEAQzqLfhVfLh5WSuT_-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mOh32z28dZqgnN2yflym-2" target="xKg_E77v0kbg96FL4elX-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RbEAQzqLfhVfLh5WSuT_-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mOh32z28dZqgnN2yflym-2" target="xKg_E77v0kbg96FL4elX-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mOh32z28dZqgnN2yflym-2" value="Main Model" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dF7pddtRagRNDY8ZvFb1-4" value="Gender" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dF7pddtRagRNDY8ZvFb1-5" value="Detects no. of people" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="110" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dF7pddtRagRNDY8ZvFb1-6" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="170" as="sourcePoint" />
+            <mxPoint x="1092.4000244140625" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W8xwbwV6je1VlTMzKs53-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5gETfFsgKsis_BSkWI75-1" target="xKg_E77v0kbg96FL4elX-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oJGXoU1cgZz9ebwihHBl-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5gETfFsgKsis_BSkWI75-1" target="oJGXoU1cgZz9ebwihHBl-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5gETfFsgKsis_BSkWI75-1" value="Advanced&lt;div&gt;&amp;nbsp;Analytics&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oJGXoU1cgZz9ebwihHBl-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xKg_E77v0kbg96FL4elX-1" target="oJGXoU1cgZz9ebwihHBl-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xKg_E77v0kbg96FL4elX-1" value="Detection" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W8xwbwV6je1VlTMzKs53-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xKg_E77v0kbg96FL4elX-2" target="5gETfFsgKsis_BSkWI75-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xKg_E77v0kbg96FL4elX-2" value="Classification" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oJGXoU1cgZz9ebwihHBl-2" value="1. Person detection along with Gender Classification&lt;div&gt;2.&amp;nbsp;Count the number of men and women&lt;/div&gt;&lt;div&gt;3. Identifying a Lone Woman&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;4. Detection of a Woman Surrounded by Men&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;5. Recognizing SOS situation through gesture analytics&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="490" width="120" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="oJGXoU1cgZz9ebwihHBl-4" value="Identifying hotspots where incidents are more likely to occur" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
