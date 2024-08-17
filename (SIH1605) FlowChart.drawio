@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7" pages="2">
   <diagram name="Working" id="oe9PQEnj7CZM9wompqn2">
-    <mxGraphModel dx="4727" dy="-335" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -393,7 +393,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="EzW_Ae9sdjG2RrbV_Er_" name="app.xml">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2250" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -404,7 +404,7 @@
           <mxGeometry x="890" y="50" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GOtOXBylJf3Z70nNNGG0-3" value="Data Input from ML Model" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d9e8fb;" parent="1" vertex="1">
-          <mxGeometry x="350" y="160" width="160" height="60" as="geometry" />
+          <mxGeometry x="350" y="60" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GOtOXBylJf3Z70nNNGG0-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GOtOXBylJf3Z70nNNGG0-5" target="GOtOXBylJf3Z70nNNGG0-20" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -423,8 +423,8 @@
         <mxCell id="GOtOXBylJf3Z70nNNGG0-8" value="Alert System" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d9e8fb;" parent="1" vertex="1">
           <mxGeometry x="350" y="460" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GOtOXBylJf3Z70nNNGG0-9" value="Communication (SMS/Call)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d9e8fb;" parent="1" vertex="1">
-          <mxGeometry x="350" y="560" width="160" height="60" as="geometry" />
+        <mxCell id="GOtOXBylJf3Z70nNNGG0-9" value="Communication (Push Notification/Call)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d9e8fb;" parent="1" vertex="1">
+          <mxGeometry x="350" y="590" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GOtOXBylJf3Z70nNNGG0-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;rounded=1;" parent="1" source="GOtOXBylJf3Z70nNNGG0-3" target="GOtOXBylJf3Z70nNNGG0-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -455,7 +455,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GOtOXBylJf3Z70nNNGG0-18" value="Node + Socket.io" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d9e8fb;" parent="1" vertex="1">
+        <mxCell id="GOtOXBylJf3Z70nNNGG0-18" value="Node + Express&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d9e8fb;" parent="1" vertex="1">
           <mxGeometry x="890" y="480" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GOtOXBylJf3Z70nNNGG0-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GOtOXBylJf3Z70nNNGG0-20" target="GOtOXBylJf3Z70nNNGG0-18" edge="1">
@@ -481,14 +481,17 @@
         <mxCell id="GOtOXBylJf3Z70nNNGG0-24" value="Updates&amp;nbsp;&lt;div&gt;Alert Messages&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1005" y="410" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GOtOXBylJf3Z70nNNGG0-25" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Priority - authority and local police&amp;nbsp;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="100" y="630" width="230" height="80" as="geometry" />
+        <mxCell id="GOtOXBylJf3Z70nNNGG0-25" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Steps -&amp;nbsp;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;1.when the&amp;nbsp; backend receives the data from the model it updates the frontend which can be - hotspot identification + update and whole area community alert.&lt;/h1&gt;&lt;div&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Update the database in Real-time with alert messages sent to specific community members or nearby authorities of the area.&amp;nbsp;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&amp;nbsp;Extra Part - Prioritising alert&lt;/h1&gt;&lt;/div&gt;&lt;div&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Data Transfer from model to backend&amp;nbsp; &amp;nbsp;&lt;/h1&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-230" y="710" width="410" height="460" as="geometry" />
         </mxCell>
         <mxCell id="GOtOXBylJf3Z70nNNGG0-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="GOtOXBylJf3Z70nNNGG0-25" target="GOtOXBylJf3Z70nNNGG0-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GOtOXBylJf3Z70nNNGG0-27" value="&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial; font-size: medium;&quot;&gt;Frontend - React Native&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial; font-size: medium;&quot;&gt;Backend - FastAPI&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial; font-size: medium;&quot;&gt;Database - Firebase (Community only)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial; font-size: medium;&quot;&gt;Web Sockets&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" parent="1" vertex="1">
           <mxGeometry x="1180" y="280" width="200" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="fT-M72jAjjhJGtvJqVzR-1" value="&lt;h1 style=&quot;text-align: left; margin-top: 0px;&quot;&gt;User daily data Analysis can give the idea of user&amp;nbsp; &amp;nbsp;visit and give threat alert on its own(&lt;/h1&gt;&lt;h1 style=&quot;text-align: left; margin-top: 0px;&quot;&gt;Stakeholder Feedback&lt;/h1&gt;&lt;div&gt;&lt;h1 style=&quot;text-align: left; margin-top: 0px;&quot;&gt;&amp;nbsp;&lt;/h1&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="20" width="290" height="540" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
