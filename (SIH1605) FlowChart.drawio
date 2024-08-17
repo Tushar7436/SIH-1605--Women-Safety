@@ -482,10 +482,64 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GvtIyrQazvFKGs95McGx" name="Detection">
-    <mxGraphModel dx="1393" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="579" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="XYf0U2Yf7j1OLkgxWed_-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XYf0U2Yf7j1OLkgxWed_-3" target="XYf0U2Yf7j1OLkgxWed_-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XYf0U2Yf7j1OLkgxWed_-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XYf0U2Yf7j1OLkgxWed_-3" target="XYf0U2Yf7j1OLkgxWed_-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="70" />
+              <mxPoint x="350" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XYf0U2Yf7j1OLkgxWed_-3" value="Input Video" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XYf0U2Yf7j1OLkgxWed_-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XYf0U2Yf7j1OLkgxWed_-5" target="XYf0U2Yf7j1OLkgxWed_-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XYf0U2Yf7j1OLkgxWed_-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XYf0U2Yf7j1OLkgxWed_-5" target="XYf0U2Yf7j1OLkgxWed_-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XYf0U2Yf7j1OLkgxWed_-5" value="Person Detection&lt;div&gt;(YOLO)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XYf0U2Yf7j1OLkgxWed_-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="XYf0U2Yf7j1OLkgxWed_-6" target="XYf0U2Yf7j1OLkgxWed_-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XYf0U2Yf7j1OLkgxWed_-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XYf0U2Yf7j1OLkgxWed_-6" target="XYf0U2Yf7j1OLkgxWed_-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XYf0U2Yf7j1OLkgxWed_-6" value="Gender Classify&lt;div&gt;(CNN)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="354" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XYf0U2Yf7j1OLkgxWed_-11" value="Count the Number of men and women" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XYf0U2Yf7j1OLkgxWed_-15" value="OpenCV" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=30;position=0.5;" vertex="1" parent="1">
+          <mxGeometry x="710" y="190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XYf0U2Yf7j1OLkgxWed_-16" value="&lt;div&gt;Lone Woman(CNN)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="465" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XYf0U2Yf7j1OLkgxWed_-20" value="Time Stamp Data" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XYf0U2Yf7j1OLkgxWed_-22" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="300" as="sourcePoint" />
+            <mxPoint x="340" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="300" />
+              <mxPoint x="270" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
