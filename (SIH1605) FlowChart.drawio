@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7" pages="6">
   <diagram name="Working" id="oe9PQEnj7CZM9wompqn2">
-    <mxGraphModel dx="5257" dy="-29" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4793" dy="-297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -411,7 +411,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dmrSA0OePU3Xj5UzGgVG" name="Software">
-    <mxGraphModel dx="1639" dy="945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="995" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -433,24 +433,30 @@
         <mxCell id="oJGXoU1cgZz9ebwihHBl-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="5gETfFsgKsis_BSkWI75-1" target="oJGXoU1cgZz9ebwihHBl-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5gETfFsgKsis_BSkWI75-1" value="Advanced&lt;div&gt;&amp;nbsp;Analytics&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="533.5" y="314" width="120" height="60" as="geometry" />
-        </mxCell>
+        <UserObject label="Advanced&lt;div&gt;&amp;nbsp;Analytics&lt;/div&gt;" link="data:page/id,Sx36RcJ_0Xqm60CywEJh" linkTarget="_blank" id="5gETfFsgKsis_BSkWI75-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="533.5" y="314" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="oJGXoU1cgZz9ebwihHBl-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="xKg_E77v0kbg96FL4elX-1" target="oJGXoU1cgZz9ebwihHBl-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xKg_E77v0kbg96FL4elX-1" value="Detection" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="313.5" y="314" width="120" height="60" as="geometry" />
-        </mxCell>
+        <UserObject label="Detection" link="data:page/id,GvtIyrQazvFKGs95McGx" linkTarget="_blank" id="xKg_E77v0kbg96FL4elX-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="313.5" y="314" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="W8xwbwV6je1VlTMzKs53-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xKg_E77v0kbg96FL4elX-2" target="5gETfFsgKsis_BSkWI75-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jFVDjzPSVPCzSr0enU5a-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xKg_E77v0kbg96FL4elX-2" target="jFVDjzPSVPCzSr0enU5a-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xKg_E77v0kbg96FL4elX-2" value="Classification" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="753.5" y="314" width="120" height="60" as="geometry" />
-        </mxCell>
+        <UserObject label="Classification" link="data:page/id,F0InlEf6vFZEoSiRsrj5" linkTarget="_blank" id="xKg_E77v0kbg96FL4elX-2">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="753.5" y="314" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="oJGXoU1cgZz9ebwihHBl-2" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;1. Anomalies (unusual patterns)&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;2. Real-time Threat Detection&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;3. Lone Woman at Night&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;4. Unusual Gestures (SOS situation through gesture analytics)&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;5. Woman Surrounded by Men&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;6.&amp;nbsp;&lt;span style=&quot;background-color: initial; text-align: center;&quot;&gt;Number of people&lt;/span&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.1111111111111111;" parent="1" vertex="1">
           <mxGeometry x="286" y="404" width="175" height="240" as="geometry" />
         </mxCell>
