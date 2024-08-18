@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7" pages="6">
   <diagram name="Working" id="oe9PQEnj7CZM9wompqn2">
-    <mxGraphModel dx="5039" dy="-155" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="6496" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,7 +56,7 @@
           <mxGeometry x="-1775" y="1750" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Kr9c1GuOgurX0YWUTEC0-29" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;HARDWARE&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;(WHERE THIS SORTWARE WILL BE IMPLEMENTED)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-2860" y="1770" width="450" height="130" as="geometry" />
+          <mxGeometry x="-2700" y="2020" width="450" height="130" as="geometry" />
         </mxCell>
         <mxCell id="S3d6oqANvKIGUzkO0rfD-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Kr9c1GuOgurX0YWUTEC0-31" target="S3d6oqANvKIGUzkO0rfD-18">
           <mxGeometry relative="1" as="geometry" />
@@ -118,9 +118,6 @@
         </mxCell>
         <mxCell id="IYhzoumVv45daOD4Cr5G-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Kr9c1GuOgurX0YWUTEC0-61" target="Kr9c1GuOgurX0YWUTEC0-61" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="IYhzoumVv45daOD4Cr5G-7" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;ML and CV&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-2800" y="2860" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="IYhzoumVv45daOD4Cr5G-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="IYhzoumVv45daOD4Cr5G-8" target="Kr9c1GuOgurX0YWUTEC0-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -184,12 +181,6 @@
         <mxCell id="8AJmyJcuYFiKS0aLFWDZ-2" value="WORKPLACES" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1960" y="1540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="06BAhlFctzTFG3D3-_AC-19" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2780" y="1710" as="sourcePoint" />
-            <mxPoint x="-800" y="1710" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="8dRs3dQe8CBtBl2XNsrS-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8jhD6OK0LzmyK6qxWqyf-10" target="S3d6oqANvKIGUzkO0rfD-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -201,8 +192,8 @@
         </mxCell>
         <mxCell id="8jhD6OK0LzmyK6qxWqyf-21" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2700" y="3130" as="sourcePoint" />
-            <mxPoint x="-860" y="3130" as="targetPoint" />
+            <mxPoint x="-2690" y="3140" as="sourcePoint" />
+            <mxPoint x="-850" y="3140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="psCxJLUCypQaV93nAJZd-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8jhD6OK0LzmyK6qxWqyf-22" target="psCxJLUCypQaV93nAJZd-32" edge="1">
@@ -283,11 +274,17 @@
         <mxCell id="XJT7-nGynFlqDhna1yWw-1" value="&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-align: left; font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2555" y="3080" width="480" height="140" as="geometry" />
         </mxCell>
+        <mxCell id="99CRShkq99kTluIg5y5i-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2730" y="1720" as="sourcePoint" />
+            <mxPoint x="-850" y="1720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="EzW_Ae9sdjG2RrbV_Er_" name="app.xml">
-    <mxGraphModel dx="2591" dy="2104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
