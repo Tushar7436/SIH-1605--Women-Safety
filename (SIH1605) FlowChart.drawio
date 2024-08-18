@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7" pages="6">
   <diagram name="Working" id="oe9PQEnj7CZM9wompqn2">
-    <mxGraphModel dx="5257" dy="-29" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="7380" dy="1194" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -107,6 +107,9 @@
         <mxCell id="V5EzHFX2td78C2ehnS5n-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Kr9c1GuOgurX0YWUTEC0-42" target="V5EzHFX2td78C2ehnS5n-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="XJT7-nGynFlqDhna1yWw-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Kr9c1GuOgurX0YWUTEC0-42" target="XJT7-nGynFlqDhna1yWw-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Kr9c1GuOgurX0YWUTEC0-42" value="MAIN&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;MODEL&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1650" y="3190" width="120" height="60" as="geometry" />
         </mxCell>
@@ -124,8 +127,8 @@
         <mxCell id="Kr9c1GuOgurX0YWUTEC0-51" value="&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1445" y="3330" width="20" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Kr9c1GuOgurX0YWUTEC0-53" value="&lt;div style=&quot;text-align: left; font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Pre-build model can target the folllowing -&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 16px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;1. Gender&amp;nbsp;&lt;/div&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left; forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; font-size: 16px;&quot;&gt;2. No. of Peoples&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;3. Anomalies (which the previous model failed to solve)&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;[Continuously monitor the scene to count the &lt;br&gt;number of men and women present,offering insights&lt;br&gt;into gender distribution in specific locations and times. &lt;br&gt;(Person detection along with Gender Classification)]&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-1490" y="2785" width="410" height="190" as="geometry" />
+        <mxCell id="Kr9c1GuOgurX0YWUTEC0-53" value="&lt;div style=&quot;text-align: left; font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-1295" y="2865" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Kr9c1GuOgurX0YWUTEC0-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Kr9c1GuOgurX0YWUTEC0-61" target="Kr9c1GuOgurX0YWUTEC0-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -150,6 +153,9 @@
               <mxPoint x="-1670" y="4010" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="XJT7-nGynFlqDhna1yWw-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IYhzoumVv45daOD4Cr5G-4" target="XJT7-nGynFlqDhna1yWw-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="DETECTION" link="data:page/id,GvtIyrQazvFKGs95McGx" linkTarget="_blank" id="IYhzoumVv45daOD4Cr5G-4">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -260,11 +266,8 @@
         <mxCell id="8jhD6OK0LzmyK6qxWqyf-22" value="Analytical Solutions" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1940" y="3870" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yNzdIJ_sDfWuy56uchWX-1" value="&lt;div style=&quot;text-align: left; font-size: 16px;&quot;&gt;Detection Pointers:&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 16px;&quot;&gt;1. Anomalies (unusual patterns)&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 16px;&quot;&gt;2. Real-time Threat Detection&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 16px;&quot;&gt;3. Lone Woman at Night&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 16px;&quot;&gt;4. Unusual Gestures (SOS situation through gesture analytics)&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 16px;&quot;&gt;5. Woman Surrounded by Men&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-2550" y="3285" width="470" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="yNzdIJ_sDfWuy56uchWX-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.011;entryY=0.502;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="IYhzoumVv45daOD4Cr5G-4" target="yNzdIJ_sDfWuy56uchWX-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="yNzdIJ_sDfWuy56uchWX-1" value="&lt;div style=&quot;text-align: left; font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-2325" y="3335" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="V5EzHFX2td78C2ehnS5n-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="psCxJLUCypQaV93nAJZd-6" target="8jhD6OK0LzmyK6qxWqyf-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -343,8 +346,20 @@
         <mxCell id="S3d6oqANvKIGUzkO0rfD-32" value="HISTORICAL REPOSITORY" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-2200" y="2300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-FueS6I7w4FjxFKEmtra-1" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Hotspots and Trends&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-1817.5" y="3410" width="165" height="30" as="geometry" />
+        <mxCell id="-FueS6I7w4FjxFKEmtra-1" value="&lt;div&gt;Analytics Pointers:&lt;/div&gt;1. Identifying hotspots and trends&lt;div&gt;2.&amp;nbsp;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-1817.5" y="3410" width="177.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="XJT7-nGynFlqDhna1yWw-1" value="&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-align: left; font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2555" y="3080" width="480" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="XJT7-nGynFlqDhna1yWw-2" value="Detection Pointers: &lt;br&gt;1. Anomalies (unusual patterns) &lt;br&gt;2. Real-time Threat Detection &lt;br&gt;3. Lone Woman at Night &lt;br&gt;4. Unusual Gestures (SOS situation through gesture analytics) &lt;br&gt;5. Woman Surrounded by Men" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2261.25" y="3300" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="XJT7-nGynFlqDhna1yWw-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.475;entryY=0.048;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="V5EzHFX2td78C2ehnS5n-6" target="-FueS6I7w4FjxFKEmtra-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XJT7-nGynFlqDhna1yWw-6" value="Classification Pointers: &lt;br&gt;1. Gender &lt;br&gt;2. Number of People &lt;br&gt;&lt;br&gt;[Continuously monitor the scene to count the number of men and women present,offering insights into gender distribution in specific locations and times. (Person detection along with Gender Classification)]" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1460" y="3150" width="270" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -471,7 +486,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dmrSA0OePU3Xj5UzGgVG" name="Software">
-    <mxGraphModel dx="1393" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="844" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -529,8 +544,8 @@
         <mxCell id="oJGXoU1cgZz9ebwihHBl-2" value="1. Person detection along with Gender Classification&lt;div&gt;2.&amp;nbsp;Count the number of men and women&lt;/div&gt;&lt;div&gt;3. Identifying a Lone Woman&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;4. Detection of a Woman Surrounded by Men&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;5. Recognizing SOS situation through gesture analytics&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.1111111111111111;" parent="1" vertex="1">
           <mxGeometry x="40" y="490" width="120" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="oJGXoU1cgZz9ebwihHBl-4" value="Identifying hotspots and trends" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="420" y="490" width="120" height="60" as="geometry" />
+        <mxCell id="oJGXoU1cgZz9ebwihHBl-4" value="1. Identifying hotspots and trends&lt;div&gt;2.&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="490" width="120" height="270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
