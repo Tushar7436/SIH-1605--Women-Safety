@@ -55,7 +55,7 @@
         <mxCell id="Kr9c1GuOgurX0YWUTEC0-23" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;SERVERS /&lt;/font&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;BIG RUNNING MACHINE&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1775" y="1750" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Kr9c1GuOgurX0YWUTEC0-29" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;DATA SOURCE&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Kr9c1GuOgurX0YWUTEC0-29" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;DATA SOURCES&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2610" y="2100" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="S3d6oqANvKIGUzkO0rfD-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Kr9c1GuOgurX0YWUTEC0-31" target="S3d6oqANvKIGUzkO0rfD-18">
