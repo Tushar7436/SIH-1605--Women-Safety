@@ -276,7 +276,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="EzW_Ae9sdjG2RrbV_Er_" name="app.xml">
-    <mxGraphModel dx="1805" dy="1606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -464,7 +464,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dmrSA0OePU3Xj5UzGgVG" name="Software">
-    <mxGraphModel dx="1393" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="844" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -478,17 +478,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mOh32z28dZqgnN2yflym-2" value="Main Model" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
-          <mxGeometry x="533.5" y="324" width="120" height="60" as="geometry" />
+          <mxGeometry x="533.5" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="W8xwbwV6je1VlTMzKs53-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5gETfFsgKsis_BSkWI75-1" target="xKg_E77v0kbg96FL4elX-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oJGXoU1cgZz9ebwihHBl-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="5gETfFsgKsis_BSkWI75-1" target="oJGXoU1cgZz9ebwihHBl-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="oJGXoU1cgZz9ebwihHBl-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="5gETfFsgKsis_BSkWI75-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="593.5" y="470" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <UserObject label="Advanced&lt;div&gt;&amp;nbsp;Analytics&lt;/div&gt;" link="data:page/id,Sx36RcJ_0Xqm60CywEJh" linkTarget="_blank" id="5gETfFsgKsis_BSkWI75-1">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
-            <mxGeometry x="533.5" y="454" width="120" height="60" as="geometry" />
+            <mxGeometry x="533.5" y="380" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="oJGXoU1cgZz9ebwihHBl-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="xKg_E77v0kbg96FL4elX-1" target="oJGXoU1cgZz9ebwihHBl-2" edge="1">
@@ -496,49 +498,71 @@
         </mxCell>
         <UserObject label="Detection" link="data:page/id,GvtIyrQazvFKGs95McGx" linkTarget="_blank" id="xKg_E77v0kbg96FL4elX-1">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
-            <mxGeometry x="313.5" y="454" width="120" height="60" as="geometry" />
+            <mxGeometry x="347.5" y="380" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="W8xwbwV6je1VlTMzKs53-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xKg_E77v0kbg96FL4elX-2" target="5gETfFsgKsis_BSkWI75-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jFVDjzPSVPCzSr0enU5a-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xKg_E77v0kbg96FL4elX-2" target="jFVDjzPSVPCzSr0enU5a-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="jFVDjzPSVPCzSr0enU5a-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xKg_E77v0kbg96FL4elX-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="777.5" y="470" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <UserObject label="Classification" link="data:page/id,F0InlEf6vFZEoSiRsrj5" linkTarget="_blank" id="xKg_E77v0kbg96FL4elX-2">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
-            <mxGeometry x="753.5" y="454" width="120" height="60" as="geometry" />
+            <mxGeometry x="717.5" y="380" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="oJGXoU1cgZz9ebwihHBl-2" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;1. Anomalies (unusual patterns)&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;2. Real-time Threat Detection&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;3. Lone Woman at Night&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;4. Unusual Gestures (SOS situation through gesture analytics)&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;5. Woman Surrounded by Men&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;6.&amp;nbsp;&lt;span style=&quot;background-color: initial; text-align: center;&quot;&gt;Number of people&lt;/span&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.1111111111111111;" parent="1" vertex="1">
-          <mxGeometry x="286" y="544" width="175" height="240" as="geometry" />
-        </mxCell>
-        <mxCell id="oJGXoU1cgZz9ebwihHBl-4" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. Identifying hotspots and trends&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;2.&amp;nbsp;Predictive analysis&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;3.&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Time trend analysis for safety measure for women&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;4. Assess risks to improve safety measures (feedback)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="503.5" y="544" width="180" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="jFVDjzPSVPCzSr0enU5a-1" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. Gender classification&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Unusual gestures&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3. Type of threat&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;4. Anomalies type&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="743.5" y="544" width="140" height="120" as="geometry" />
+        <mxCell id="oJGXoU1cgZz9ebwihHBl-2" value="&lt;div style=&quot;text-align: left;&quot;&gt;1. Anomalies&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;2. Real-time threat&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;3. Lone woman at night&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;4. Unusual gestures&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;5. Woman surrounded by men&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;6.&amp;nbsp;&lt;span style=&quot;background-color: initial; text-align: center;&quot;&gt;Number of people&lt;/span&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.1111111111111111;" parent="1" vertex="1">
+          <mxGeometry x="325" y="470" width="165" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qZpiVMYYFXSaJH1YwA5c-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qZpiVMYYFXSaJH1YwA5c-1" target="mOh32z28dZqgnN2yflym-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="711" y="280" />
+              <mxPoint x="594" y="280" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="qZpiVMYYFXSaJH1YwA5c-1" value="PREBUILT MODEL DATA REFINEMENT" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="636" y="204" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qZpiVMYYFXSaJH1YwA5c-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qZpiVMYYFXSaJH1YwA5c-2" target="mOh32z28dZqgnN2yflym-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="477" y="280" />
+              <mxPoint x="594" y="280" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="qZpiVMYYFXSaJH1YwA5c-2" value="GESTURE / SOS DATA EXTRACTION" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="406" y="204" width="141.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-dYpQx11uRY97ZqOyuIc-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-dYpQx11uRY97ZqOyuIc-1" target="qZpiVMYYFXSaJH1YwA5c-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="594" y="190" />
+              <mxPoint x="477" y="190" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="-dYpQx11uRY97ZqOyuIc-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-dYpQx11uRY97ZqOyuIc-1" target="qZpiVMYYFXSaJH1YwA5c-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="594" y="190" />
+              <mxPoint x="711" y="190" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="-dYpQx11uRY97ZqOyuIc-1" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;RAW DATA&lt;/font&gt;" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="523.5" y="44" width="140" height="110" as="geometry" />
+        <mxCell id="-dYpQx11uRY97ZqOyuIc-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;RAW DATA&lt;/font&gt;" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="545.25" y="110" width="96.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LMGvZUNN1aeyIbI8nufq-1" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. Hotspots and trends&lt;/span&gt;&lt;/div&gt;&lt;div&gt;2. Threat predicion&lt;/div&gt;&lt;div&gt;3.&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Time trend analysis&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;4. Assess risks&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;5.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Gesture analytics&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.1111111111111111;" vertex="1" parent="1">
+          <mxGeometry x="526.5" y="470" width="134" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="LMGvZUNN1aeyIbI8nufq-3" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. Gender classification&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Unusual gestures&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3. Type of threat&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;4. Anomalies type&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.1111111111111111;" vertex="1" parent="1">
+          <mxGeometry x="712.5" y="470" width="130" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
