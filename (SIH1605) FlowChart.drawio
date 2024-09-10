@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7" pages="6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.12" pages="6">
   <diagram name="Working" id="oe9PQEnj7CZM9wompqn2">
     <mxGraphModel dx="6186" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -677,11 +677,128 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="F0InlEf6vFZEoSiRsrj5" name="Classification">
-    <mxGraphModel dx="1393" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+  <diagram id="F0InlEf6vFZEoSiRsrj5" name="ML and Data Analytics">
+    <mxGraphModel dx="1358" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="T2zBnSEo87jkDQa2_Yrz-1" value="Model 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="10" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T2zBnSEo87jkDQa2_Yrz-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T2zBnSEo87jkDQa2_Yrz-2" target="T2zBnSEo87jkDQa2_Yrz-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T2zBnSEo87jkDQa2_Yrz-2" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;Person Detection&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T2zBnSEo87jkDQa2_Yrz-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="T2zBnSEo87jkDQa2_Yrz-3" target="T2zBnSEo87jkDQa2_Yrz-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T2zBnSEo87jkDQa2_Yrz-3" value="&lt;div&gt;Count Persons&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T2zBnSEo87jkDQa2_Yrz-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="T2zBnSEo87jkDQa2_Yrz-4" target="T2zBnSEo87jkDQa2_Yrz-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T2zBnSEo87jkDQa2_Yrz-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="T2zBnSEo87jkDQa2_Yrz-4" target="T2zBnSEo87jkDQa2_Yrz-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T2zBnSEo87jkDQa2_Yrz-4" value="Data Packaging" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T2zBnSEo87jkDQa2_Yrz-7" value="&lt;div&gt;Daily analysis&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T2zBnSEo87jkDQa2_Yrz-8" value="&lt;div&gt;Real Time analysis&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T2zBnSEo87jkDQa2_Yrz-9" value="(.json)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T2zBnSEo87jkDQa2_Yrz-10" value="(.json)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T2zBnSEo87jkDQa2_Yrz-13" value="Uses Yolo which detects a person in real-time" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="70" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="T2zBnSEo87jkDQa2_Yrz-15" value="Person detection counter" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="250" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="T2zBnSEo87jkDQa2_Yrz-19" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Performs conditional analysis&amp;nbsp;&lt;/span&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;and packs the data into json files&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="240" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="T2zBnSEo87jkDQa2_Yrz-20" value="Averages count of detections per 10-15 secs" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="830" y="70" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="T2zBnSEo87jkDQa2_Yrz-21" value="Averages of a day in 12-hour division into FH and SH" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="820" y="275" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="T2zBnSEo87jkDQa2_Yrz-22" value="Model 2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="384" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T2zBnSEo87jkDQa2_Yrz-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="T2zBnSEo87jkDQa2_Yrz-24" target="T2zBnSEo87jkDQa2_Yrz-26" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T2zBnSEo87jkDQa2_Yrz-24" value="&lt;div&gt;Gender detection&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T2zBnSEo87jkDQa2_Yrz-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="T2zBnSEo87jkDQa2_Yrz-26" target="T2zBnSEo87jkDQa2_Yrz-29" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T2zBnSEo87jkDQa2_Yrz-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="T2zBnSEo87jkDQa2_Yrz-26" target="T2zBnSEo87jkDQa2_Yrz-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T2zBnSEo87jkDQa2_Yrz-26" value="&lt;div&gt;Gender distribution&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T2zBnSEo87jkDQa2_Yrz-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="T2zBnSEo87jkDQa2_Yrz-29" target="T2zBnSEo87jkDQa2_Yrz-31" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T2zBnSEo87jkDQa2_Yrz-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="T2zBnSEo87jkDQa2_Yrz-29" target="T2zBnSEo87jkDQa2_Yrz-30" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T2zBnSEo87jkDQa2_Yrz-29" value="Data Packaging" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T2zBnSEo87jkDQa2_Yrz-30" value="&lt;div&gt;Daily analysis&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T2zBnSEo87jkDQa2_Yrz-31" value="&lt;div&gt;Real Time analysis&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T2zBnSEo87jkDQa2_Yrz-32" value="Detects Male and Female with real time video capture" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="460" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="T2zBnSEo87jkDQa2_Yrz-33" value="Counts the number of men and women present" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="585" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="T2zBnSEo87jkDQa2_Yrz-34" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Performs conditional analysis&amp;nbsp;&lt;/span&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;and packs the data into json files&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="640" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="T2zBnSEo87jkDQa2_Yrz-35" value="Averages count of detections per 10-15 secs" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="860" y="470" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="T2zBnSEo87jkDQa2_Yrz-36" value="calculates frequency of Male and Female per day and distribution" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="850" y="675" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="T2zBnSEo87jkDQa2_Yrz-37" value="(.json)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="530" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T2zBnSEo87jkDQa2_Yrz-38" value="(.json)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="730" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T2zBnSEo87jkDQa2_Yrz-39" value="&lt;div&gt;Lone woman detection&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T2zBnSEo87jkDQa2_Yrz-41" value="detects if a woman is alone at night" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="725" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="T2zBnSEo87jkDQa2_Yrz-42" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="380" as="sourcePoint" />
+            <mxPoint x="1140" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
